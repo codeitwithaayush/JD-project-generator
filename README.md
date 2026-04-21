@@ -15,11 +15,11 @@ AI-powered web app that converts job descriptions into tailored project ideas.
 ## How to Run
 
 ### Backend
-cd backend
-pip install -r requirements.txt
-uvicorn app.main:app --reload
+1.cd backend
+2.pip install -r requirements.txt
+3.uvicorn app.main:app --reload
 
 ### Frontend
-cd frontend
-npm install
-npm run dev
+1.cd frontend
+2.npm install
+3.npm run dev
