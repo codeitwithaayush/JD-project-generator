@@ -1,4 +1,4 @@
-# JD Project Generator 🚀
+# JD Project Generator 
 
 AI-powered web app that converts job descriptions into tailored project ideas.
 
